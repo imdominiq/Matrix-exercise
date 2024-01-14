@@ -1,1 +1,1 @@
-Zadanie Macierze z Programowania Objektowego
+Zadanie Studia - Macierze - Programowania Objektowe
